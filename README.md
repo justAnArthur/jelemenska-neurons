@@ -2,4 +2,4 @@
 
 PPI všetky možný obvody (dufam).
 
-![[jelemenska-neurons/main.png]]
+![main](main.png)
