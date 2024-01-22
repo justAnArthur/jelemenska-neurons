@@ -1,2 +1,5 @@
 # jelemenska-neurons
-PPI všetky možný obvody
+
+PPI všetky možný obvody (dufam).
+
+![[jelemenska-neurons/main.png]]
